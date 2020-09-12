@@ -10,19 +10,24 @@ Prerequisites
 Installation:
 
 -PYTHON
+   
    recommended to install python 3.6 .
    
 -NlTK MODULE
+  
   .You can install nltk using pip. 
   .Type the following in command prompt "pip install nltk"
   
 -TFLEARN
+  
   .Type the following in command prompt "pip install tflearn"
   
 -NUMPY
+   
    .Type the following in command prompt "pip install numpy"
    
 -TENSORFLOW
+  
   .Type the following in command prompt "pip install tensorflow"
   
   Here I have demonstrated a simple chatBot using NLP and AI model.

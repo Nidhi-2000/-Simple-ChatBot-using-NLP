@@ -16,6 +16,7 @@ Installation:
 -NlTK MODULE
   
   .You can install nltk using pip. 
+  
   .Type the following in command prompt "pip install nltk"
   
 -TFLEARN
@@ -37,6 +38,7 @@ Installation:
  feedback to me on telegram.Incase you feel you can make the code better feel free to send the merge request. I would be happy to incultate your contributions
  
  Hope you have fun chatting with the bot.
+ 
  telegram handle: @Happysunshine_5.
  
  Happy Coding!!

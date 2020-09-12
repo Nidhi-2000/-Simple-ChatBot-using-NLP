@@ -34,7 +34,7 @@ Installation:
   Here I have demonstrated a simple chatBot using NLP and AI model.
   The data is small and very simple.You are free to modify it according to your needs.
   
- I have also tried to explain each function usind comment so that it will be helpful to understand the code and I hope you enjoy having and a look at it .You can also share your 
+ I have also tried to explain each function using comments so that it will be helpful to understand the code and I hope you enjoy having and a look at it .You can also share your 
  feedback to me on telegram.Incase you feel you can make the code better feel free to send the merge request. I would be happy to incultate your contributions
  
  Hope you have fun chatting with the bot.

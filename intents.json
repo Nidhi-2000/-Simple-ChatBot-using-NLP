@@ -1,0 +1,35 @@
+//This is the data we will be using for our chatbot. You are free to change the contents according to your needs.
+
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up","How are you","Hey","Hey Bot","I need Help"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?","Its so good to see you here"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day","I have to leave now"],
+         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!","Have a great day a","Hope to see you soon","will be waiting to see you"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "patterns": ["how old", "how old are you", "what is your age", "how old are you", "age?","when were you made"],
+         "responses": ["I am 2 ydays old!", "2 days young!"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?","what can i adress you as?","May I know your name"],
+         "responses": ["You can call me Honey.", "I'm Honey!", "My sweet name is honey!",],
+         "context_set": ""
+        },
+        {"tag": "shop",
+         "patterns": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
+         "responses": ["We sell chocolate chip cookies for 50 bucks!", "Cookies are on the menu!"],
+         "context_set": ""
+        },
+        {"tag": "hours",
+         "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
+         "responses": ["We are open 9am-5pm Monday-Friday!"],
+         "context_set": ""
+        }
+ ]
+ }
